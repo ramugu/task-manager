@@ -1,0 +1,22 @@
+body{
+    background-image:url("https://t3.ftcdn.net/jpg/05/13/59/72/360_F_513597277_YYqrogAmgRR9ohwTUnOM784zS9eYUcSk.jpg");
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+.heading{
+    color: rgb(255, 0, 111);
+    text-shadow: 2px 2px 5px aqua,2px 2px 2px rgb(246, 107, 107);
+    padding-left: 10px;
+    
+}
+.table1{
+    box-shadow: 2px 2px 4px rgb(252, 185, 196),3px 3px 5px rgb(255, 142, 161);
+}
+.card1{
+    box-shadow: 2px 2px 5px pink;
+
+}
+
